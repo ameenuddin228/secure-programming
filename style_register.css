@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(93, 129, 230);
+}
+
+#form{
+    background-color: rgb(217, 248, 182);
+    width: 26%;
+    margin: 120px auto;
+    padding: 55px;
+    border-radius: 5px;
+    
+}
+
+input{
+    border:1px solid olive;
+    border-radius:5px;
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(75, 171, 75);
+}
+
+#form{
+    background-color: aquamarine;
+    width: 26%;
+    margin: 120px auto;
+    padding: 55px;
+    border-radius: 5px;
+    
+}
+input{
+    border:1px solid olive;
+    border-radius:5px;
+}
